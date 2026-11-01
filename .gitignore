@@ -1,6 +1,8 @@
+storage/qdrant/
+storage/repositories/
+storage/processed/
+storage/analysis/
 .env
 .venv/
 __pycache__/
-*.pyc
-
-storage/repositories/
+*.pycgit
