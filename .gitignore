@@ -5,4 +5,4 @@ storage/analysis/
 .env
 .venv/
 __pycache__/
-*.pycgit
+*.pycgitstorage/processed/
